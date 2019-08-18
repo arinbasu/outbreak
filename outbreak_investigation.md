@@ -1,6 +1,7 @@
 
 ## Scenario
-> You are a health officer in a rural town. Your boss has asked you to investigate an acute outbreak of gastroenteritis in the town. When you reach the site, you learn that all persons known to be ill attended a church supper held on the previous evening. Family members who did not attend the supper did not become ill. You decide to proceed with the investigation
+
+You are a health officer in a rural town. Your boss has asked you to investigate an acute outbreak of gastroenteritis in the town. When you reach the site, you learn that all persons known to be ill attended a church supper held on the previous evening. Family members who did not attend the supper did not become ill. You decide to proceed with the investigation
 
 ---
 
