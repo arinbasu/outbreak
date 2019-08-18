@@ -52,7 +52,7 @@ You decide to administer a questionnaire to the church supper participants. What
 ---
 # What does this graph tell you?
 
-<img src="outbreak1.png" width="400px" height="100px" />
+<img src="outbreak1.png" width="400px" height="400px" />
 
 
 [Answer here](https://www.wooclap.com/OUTBREAK)
