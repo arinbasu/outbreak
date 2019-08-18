@@ -50,6 +50,7 @@ You decide to administer a questionnaire to the church supper participants. What
 - Follow the live coding exercise with me
 
 ---
+class: middle, center
 # What does this graph tell you?
 
 <img src="outbreak1.png" width="600px" height="400px" />
