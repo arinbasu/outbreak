@@ -52,7 +52,7 @@ You decide to administer a questionnaire to the church supper participants. What
 ---
 
 # What does this graph tell you?
-![outbreak curve](outbreak1.png ="200x")
+![outbreak curve](outbreak1.png =200x)
 
 [Answer here](https://www.wooclap.com/OUTBREAK)
 
