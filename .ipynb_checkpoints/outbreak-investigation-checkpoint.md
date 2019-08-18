@@ -50,9 +50,10 @@ You decide to administer a questionnaire to the church supper participants. What
 - Follow the live coding exercise with me
 
 ---
+background-image: url(outbreak1.png)
 
 # What does this graph tell you?
-<img src="outbreak1.png" width="200px" />
+
 
 [Answer here](https://www.wooclap.com/OUTBREAK)
 
