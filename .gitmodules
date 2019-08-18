@@ -1,0 +1,3 @@
+[submodule "outbreak"]
+	path = outbreak
+	url = https://github.com/arinbasu/outbreak.git
