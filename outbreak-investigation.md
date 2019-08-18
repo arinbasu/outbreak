@@ -30,6 +30,7 @@ You decide to administer a questionnaire to the church supper participants. What
 [Answer the question here](https://www.wooclap.com/OUTBREAK)
 
 ---
+background-color: #99ccff
 
 # Description of the supper
 - The supper was held at the lawn of the church
